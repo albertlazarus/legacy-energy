@@ -1,6 +1,6 @@
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import ProductCard from "@/components/ProductCard";
+import ProductCard from '../components/ProductCard';
 
 const products = [
   {
