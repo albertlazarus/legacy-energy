@@ -1,6 +1,6 @@
-import Header from "@/components/Header";
+import Header from '../components/Header';
 import Footer from "@/components/Footer";
-import BlogCard from "@/components/BlogCard";
+import BlogCard from '../components/BlogCard';
 
 const articles = [
   {
